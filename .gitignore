@@ -1,0 +1,11 @@
+# compiled output
+*.exe
+*.o
+analytics
+tests_run
+benchmark
+marketplace
+# editor files
+.vscode/
+.idea/
+*.swp

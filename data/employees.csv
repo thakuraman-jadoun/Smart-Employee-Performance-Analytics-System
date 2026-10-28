@@ -1,0 +1,13 @@
+id,name,department,team,attendance,tasks_assigned,tasks_completed,productivity,performance_score,feedback,skills
+101,Rohan Verma,Engineering,Backend,92,40,36,85,88,84,C++;Python;SQL
+102,Priya Nair,Engineering,Backend,96,38,37,90,91,88,Java;SQL;Docker
+103,Arjun Singh,Engineering,Frontend,88,35,29,78,80,75,JavaScript;React;CSS
+104,Neha Gupta,Engineering,Frontend,94,36,34,86,87,90,React;JavaScript;UI-Design
+105,Sneha Iyer,Data,Analytics,98,42,41,94,96,95,Python;SQL;Machine-Learning
+106,Ananya Sharma,Data,Analytics,97,40,39,92,93,91,Python;Statistics;SQL
+107,Vikram Joshi,Data,ML,90,34,30,80,82,79,Python;Machine-Learning;C++
+108,Karan Mehta,Sales,Enterprise,82,30,22,68,70,66,Negotiation;CRM
+109,Isha Kapoor,Sales,Enterprise,95,36,34,88,90,92,Negotiation;CRM;Communication
+110,Manish Kumar,Sales,Retail,78,28,18,62,65,60,Communication;CRM
+111,Divya Rao,HR,Recruitment,93,26,24,82,84,86,Communication;Recruiting
+112,Sameer Khan,HR,Payroll,89,24,20,76,78,74,Excel;Payroll
